@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Oct 26 00:45:12 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=robot_study.jar
+manifest.mergeall=true
+manifest.mainclass=com.cisdiinfo.exercise.RobotProxy
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

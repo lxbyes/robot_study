@@ -1,0 +1,8 @@
+http://lms.chinahrt.com/Launch?scormPackageID=5b3c6ef4-ff4d-4b45-8c07-e6961b61e0e8&studyProgress=79.0&planType=1&exit=http://student.chinahrt.com/plan/plan_detail.do?planId=df018af7-d64b-4e70-a1db-18f3a8a3af86
+http://lms.chinahrt.com/Launch?scormPackageID=7d2fbc0b-1fff-44a6-b7ce-26feaf6889c3&studyProgress=22.0&planType=1&exit=http://student.chinahrt.com/plan/plan_detail.do?planId=df018af7-d64b-4e70-a1db-18f3a8a3af86
+http://lms.chinahrt.com/Launch?scormPackageID=659078c2-7178-473c-a3e5-24fec0ad6cab&studyProgress=100.0&planType=1&exit=http://student.chinahrt.com/plan/plan_detail.do?planId=df018af7-d64b-4e70-a1db-18f3a8a3af86
+http://lms.chinahrt.com/Launch?scormPackageID=1ac9d47e-0291-4b48-be8e-5ea6df820f00&studyProgress=100.0&planType=1&exit=http://student.chinahrt.com/plan/plan_detail.do?planId=df018af7-d64b-4e70-a1db-18f3a8a3af86
+http://lms.chinahrt.com/Launch?scormPackageID=60014919-c681-401f-8d34-89717d43c4c0&studyProgress=44.0&planType=1&exit=http://student.chinahrt.com/plan/plan_detail.do?planId=df018af7-d64b-4e70-a1db-18f3a8a3af86
+http://lms.chinahrt.com/Launch?scormPackageID=ce919485-5a0d-4654-8d88-09cd161b4dd6&studyProgress=0.0&planType=1&exit=http://student.chinahrt.com/plan/plan_detail.do?planId=df018af7-d64b-4e70-a1db-18f3a8a3af86
+http://lms.chinahrt.com/Launch?scormPackageID=f3638234-5934-47d2-b8e8-32bc69731633&studyProgress=10.0&planType=1&exit=http://student.chinahrt.com/plan/plan_detail.do?planId=df018af7-d64b-4e70-a1db-18f3a8a3af86
+http://lms.chinahrt.com/Launch?scormPackageID=3d84edb5-9698-48fa-b63f-1dfa3ea25086&studyProgress=46.0&planType=1&exit=http://student.chinahrt.com/plan/plan_detail.do?planId=df018af7-d64b-4e70-a1db-18f3a8a3af86
